@@ -39,7 +39,7 @@ a:hover {
 }
 
 /* SCROLL ANIMATIONS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .scroll .page-header {
   background: var(--red);
 }
@@ -49,7 +49,7 @@ a:hover {
 }
 
 /* HEADER
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .page-header {
   transition: background 0.5s ease-in-out;
 }
@@ -64,7 +64,7 @@ a:hover {
 }
 
 /* BANNER SECTION
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .hero {
   background-attachment: fixed;
   transition: transform 0.5s ease-in-out;
@@ -89,7 +89,7 @@ a:hover {
 }
 
 /* POPULAR DESTINATIONS SECTION
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .popular-destinations figure {
   margin-bottom: 30px;
 }
@@ -113,13 +113,13 @@ a:hover {
 }
 
 /* PAGE FOOTER
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .page-footer .footer-links {
   text-align: right;
 }
 
 /* MEDIA QUERIES
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* MEDIUM SCREENS */
 @media screen and (max-width: 991px) {
   .page-header {
